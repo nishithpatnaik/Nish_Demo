@@ -1,0 +1,60 @@
+1655658877406	geckodriver	INFO	Listening on 127.0.0.1:50609
+1655658880658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50610" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CR7\\AppData\\Local\\Temp\\rust_mozprofile2EWluO"
+1655658887093	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50610
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CR7\\AppData\\Local\\Temp\\rust_mozprofile2EWluO\\search.json.mozlz4", (void 0)))
+1655658903645	Marionette	INFO	Listening on port 50657
+DevTools listening on ws://localhost:50610/devtools/browser/6371fbaa-fc08-4eae-9d6a-8ba3ac8d5b1f
+Read port: 50657
+1655658904206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1655658918576	Marionette	INFO	Stopped listening on port 50657
+1655658920505	geckodriver	INFO	Listening on 127.0.0.1:50694
+1655658923512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CR7\\AppData\\Local\\Temp\\rust_mozprofileKZLz7C"
+1655658924165	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50695
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CR7\\AppData\\Local\\Temp\\rust_mozprofileKZLz7C\\search.json.mozlz4", (void 0)))
+1655658927948	Marionette	INFO	Listening on port 50722
+DevTools listening on ws://localhost:50695/devtools/browser/9c32d79e-d1f9-43fe-b5ea-bc60f2e20692
+Read port: 50722
+1655658928216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1655658988439	Marionette	INFO	Stopped listening on port 50722
+1655660521453	geckodriver	INFO	Listening on 127.0.0.1:51122
+1655660524503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51123" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CR7\\AppData\\Local\\Temp\\rust_mozprofilevA9ThJ"
+1655660529165	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51123
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CR7\\AppData\\Local\\Temp\\rust_mozprofilevA9ThJ\\search.json.mozlz4", (void 0)))
+1655660546715	Marionette	INFO	Listening on port 51161
+DevTools listening on ws://localhost:51123/devtools/browser/2ebafee8-591d-4531-b231-f248d8a6c891
+Read port: 51161
+1655660548736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1655660560036	Marionette	INFO	Stopped listening on port 51161
+1655660561996	geckodriver	INFO	Listening on 127.0.0.1:51195
+1655660564994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CR7\\AppData\\Local\\Temp\\rust_mozprofileVhr3xB"
+1655660565605	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51196
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CR7\\AppData\\Local\\Temp\\rust_mozprofileVhr3xB\\search.json.mozlz4", (void 0)))
+1655660569279	Marionette	INFO	Listening on port 51221
+DevTools listening on ws://localhost:51196/devtools/browser/5051371c-e144-48c7-80fd-6db345205f10
+Read port: 51221
+1655660573614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://rahulshettyacademy.com"
+1655660621549	Marionette	INFO	Stopped listening on port 51221
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 906: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
