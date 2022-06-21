@@ -8,8 +8,10 @@ from testdata.HomePage_data import HomePageData
 class TestHomePage(BaseClass):
 
     def test_homepage_form_submit(self, get_data):
+
         log = self.get_logger()
         log.info("Enter HomePage Form Details for: "+get_data["Name"])
+        log.info("for GIt")
         homepage = HomePage(self.driver)
         homepage.enter_name().send_keys(get_data["Name"])
         homepage.enter_email().send_keys(get_data["Email"])

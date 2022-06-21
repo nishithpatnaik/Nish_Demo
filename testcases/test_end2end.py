@@ -6,6 +6,7 @@ from pageObjects.HomePage import HomePage
 class TestWorkflow(BaseClass):
 
     def test_workflow1(self):
+        print("Git Demo")
 
         log = self.get_logger()
 
